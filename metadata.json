@@ -1,0 +1,5 @@
+{
+  "name": "ChemLab AI: 这里的化学键",
+  "description": "一个交互式有机化学实验室，专注于通过 AI 驱动的解释和虚拟实验来学习化学键（C-C, C=C, C-H 等）。",
+  "requestFramePermissions": []
+}
